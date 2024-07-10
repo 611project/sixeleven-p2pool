@@ -1,3 +1,4 @@
 Twisted>=12.2.0
 argparse>=1.2.1
 pyOpenSSL>=0.13
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
